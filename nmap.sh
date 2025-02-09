@@ -14,7 +14,3 @@ echo -e "$default"
 apt update
 apt upgrade
 apt install nmap
-cd
-cd
-cd setoolman
-bash menu.sh
