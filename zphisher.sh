@@ -13,6 +13,8 @@ sleep 1.5
 echo -e "$default"
 apt update
 apt upgrade
-pkg install tur-repo
-pkg install zphisher
-zphisher
+pkg install git python3 php openssh -y
+git clone https://github.com/KasRoudra2/MaxPhisher
+cd MaxPhisher
+pip3 install -r files/requirements.txt
+python3 maxphisher.py
