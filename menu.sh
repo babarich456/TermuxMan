@@ -12,11 +12,9 @@ clear
 sleep 1.5
 echo -e "$default"
 figlet " SETOOLMAN "
-echo "bash nmap.py"
+echo "Available Tools: "
+echo "bash nmap.sh"
 echo "bash zphisher.sh"
 echo "bash ddos.sh"
 echo "bash userfinder.sh"
 echo "bash metasploit.sh"
-echo "Write One: "
-read "One"
-echo "Okay Man!"
