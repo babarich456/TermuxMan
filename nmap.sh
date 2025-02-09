@@ -11,7 +11,6 @@ green='\033[92m'
 clear
 sleep 1.5
 echo -e "$default"
-bash started.sh
 apt update
 apt upgrade
 apt install nmap
