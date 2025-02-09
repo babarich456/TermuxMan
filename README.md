@@ -1,6 +1,6 @@
 # setoolman
 
-İstalling(Termux/Kali Linux/Ubuntu/Windows:
+İstalling(Termux/Kali Linux/Ubuntu/Windows):
 
 apt update
 
