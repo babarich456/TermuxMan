@@ -12,8 +12,10 @@ clear
 sleep 1.5
 echo -e "$default"
 figlet " SETOOLMAN "
-1- NMAP
-2- GOBUSTER
-3- SETOOLKIT
-4- HYDRA
-5- METASPLOIT-FRAMEWORK
+echo "1- NMAP"
+echo"2- GOBUSTER"
+echo"3- SETOOLKIT"
+echo""4- HYDRA"
+echo"5- METASPLOIT-FRAMEWORK"
+echo "Choose One :"
+read "Ok"
