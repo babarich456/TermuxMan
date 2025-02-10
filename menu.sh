@@ -11,7 +11,7 @@ green='\033[92m'
 clear
 sleep 1.5
 echo -e "$default"
-figlet " SETOOLMAN "
+figlet " TermuxMan "
 echo "Available Tools: "
 echo "bash nmap.sh"
 echo "bash metasploit.sh"
