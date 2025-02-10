@@ -1,4 +1,4 @@
-# setoolman
+# TermuxMan
 
 İstalling(Termux/Kali Linux/Ubuntu/Windows):
 
